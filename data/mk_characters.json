@@ -1,0 +1,241 @@
+[
+    {
+        "id": 1,
+        "name": "Kitana",
+        "realm": "Edenia",
+        "image": "https://static.wikia.nocookie.net/mkwikia/images/5/51/Kitana_MK1_render.webp/revision/latest/scale-to-width-down/239?cb=20230920063837"
+    },
+
+    {
+        "id": 2,
+        "name": "Reptile",
+        "realm": "Outworld",
+        "image":"https://static.wikia.nocookie.net/mkwikia/images/c/c2/Reptile_MK1_render.webp/revision/latest/scale-to-width-down/218?cb=20230920060554"
+    },
+
+    {
+        "id": 3,
+        "name": "Jade",
+        "realm": "Edenia",
+        "image": "https://static.wikia.nocookie.net/mkwikia/images/2/26/Jade_MK11.png/revision/latest/scale-to-width-down/350?cb=20190227220506"
+
+    },
+
+    {
+        "id": 4,
+        "name": "Scorpion",
+        "realm": "Netherralm",
+        "image": "https://static.wikia.nocookie.net/mkwikia/images/0/0f/Scorpion_MK1_Render.png/revision/latest/scale-to-width-down/350?cb=20231215101012"
+
+    },
+
+    {
+        "id": 5,
+        "name": "Mileena",
+        "realm": "Outworld",
+        "image": "https://static.wikia.nocookie.net/mkwikia/images/2/22/Mileena_MK1_render.webp/revision/latest/scale-to-width-down/330?cb=20230920061248"
+    },
+
+    {
+        "id": 6,
+        "name": "Ermac",
+        "realm": "Outworld",
+        "image": "https://static.wikia.nocookie.net/mkwikia/images/b/bd/Ermac_MK1.png/revision/latest/scale-to-width-down/350?cb=20230925100804"
+    },
+
+    {
+        "id": 7,
+        "name": "Johnny Cage",
+        "realm": "Earthrealm",
+        "image": "https://static.wikia.nocookie.net/mkwikia/images/c/c0/JohnnyCage_MK1_render.webp/revision/latest/scale-to-width-down/252?cb=20230920064002"
+    },
+
+    {
+        "id": 8,
+        "name": "Baraka",
+        "realm": "Outworld",
+        "image": "https://static.wikia.nocookie.net/mkwikia/images/0/0b/Baraka_MK1_render.webp/revision/latest/scale-to-width-down/254?cb=20230925070706"
+    },
+
+    {
+        "id": 9,
+        "name": "Raiden",
+        "realm": "Earthrealm",
+        "image": "https://static.wikia.nocookie.net/mkwikia/images/0/03/Raiden_MK1_render.webp/revision/latest/scale-to-width-down/226?cb=20230920060313"
+    },
+    
+    {
+        "id": 10,
+        "name": "Khameleon",
+        "realm": "Outworld",
+        "image": "https://static.wikia.nocookie.net/mkwikia/images/3/36/Khameleon_MK1.webp/revision/latest/scale-to-width-down/350?cb=20231215074718"
+
+    },
+
+    {
+        "id": 11,
+        "name": "Rain",
+        "realm": "Edenia",
+        "image": "https://static.wikia.nocookie.net/mkwikia/images/a/a5/Rain_MK1_render.webp/revision/latest/scale-to-width-down/344?cb=20230920060911"
+    },
+
+    {
+        "id": 12,
+        "name": "Noob Saibot",
+        "realm": "Netherralm",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/3/3b/Noob_Saibot_11.jpg/revision/latest/scale-to-width-down/300?cb=20190805010943&path-prefix=pt"
+    },
+    
+    {
+        "id": 13,
+        "name": "Shang Tsung",
+        "realm": "Outworld",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/8/8e/Shang_Tsungn.jpg/revision/latest/scale-to-width-down/350?cb=20190624022113&path-prefix=pt"
+    },
+    
+    {
+        "id": 14,
+        "name": "Sub Zero",
+        "realm": "Earthrealm",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/f/f0/Sub-Zero11.jpg/revision/latest/scale-to-width-down/300?cb=20200126045856&path-prefix=pt"
+    },
+    
+    {
+        "id": 15,
+        "name": "Sindel",
+        "realm":"Edenia",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/2/20/Sindel_skin.jpg/revision/latest/scale-to-width-down/300?cb=20191118020838&path-prefix=pt"
+    },
+
+    {
+        "id": 16,
+        "name": "Jax",
+        "realm": "Earthrealm",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/4/43/Jax%C3%A7.jpg/revision/latest/scale-to-width-down/300?cb=20200126041453&path-prefix=pt"
+    },
+    {
+        "id": 17,
+        "name": "Kano",
+        "realm": "Earthrealm",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/4/4c/Kano_do_mkx.jpg/revision/latest/scale-to-width-down/300?cb=20190819002144&path-prefix=pt"
+    },
+
+    {
+        "id": 18,
+        "name": "Liu Kang",
+        "realm": "Earthrealm",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/6/68/Liu_Kang_Mk11..jpg/revision/latest/scale-to-width-down/350?cb=20200113022845&path-prefix=pt"
+    },
+
+    {
+        "id": 19,
+        "name": "Sonya",
+        "realm": "Earthrealm",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/2/2a/Sonya_Blade11.jpg/revision/latest/scale-to-width-down/300?cb=20200126040714&path-prefix=pt"
+    },
+
+    {
+        "id": 20,
+        "name": "Stryker",
+        "realm": "Earthrealm",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/7/7e/Striker.jpg/revision/latest/scale-to-width-down/300?cb=20140818005014&path-prefix=pt"
+    },
+
+    {
+        "id": 21,
+        "name": "Smoke",
+        "realm": "Netherralm",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/b/bd/Smoke100.jpg/revision/latest/scale-to-width-down/300?cb=20150731181957&path-prefix=pt"
+    },
+
+    {
+        "id": 22,
+        "name": "Cyrax",
+        "realm": "Earthrealm",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/5/56/CyraxHumano.jpg/revision/latest/scale-to-width-down/300?cb=20170327004733&path-prefix=pt"
+    },
+
+    {
+        "id": 23,
+        "name": "Sektor",
+        "realm": "Netherralm",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/5/50/Mortal-kombat-9-sektor-portraitA.jpg/revision/latest/scale-to-width-down/300?cb=20110707190142&path-prefix=pt"
+    },
+
+    {
+        "id": 24,
+        "name": "Nightwolf",
+        "realm": "Earthrealm",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/7/79/NightwolfMk11.jpg/revision/latest/scale-to-width-down/300?cb=20200126024624&path-prefix=pt"
+
+    },
+
+    {
+        "id": 25,
+        "name": "Sheeva",
+        "realm": "Outworld",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/d/dc/Sheeva_Mk11.jpg/revision/latest/scale-to-width-down/300?cb=20200503230446&path-prefix=pt"
+    },
+
+    {
+        "id": 26,
+        "name": "Kung Lao",
+        "realm":"Earthrealm",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/1/19/Kung_Lao11.jpg/revision/latest/scale-to-width-down/350?cb=20200127024537&path-prefix=pt"
+    },
+
+    {
+        "id": 27,
+        "name": "Kabal",
+        "realm": "Netherralm",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/7/76/Kabal_Mk11_vivo.jpg/revision/latest/scale-to-width-down/300?cb=20190217022610&path-prefix=pt"
+    },
+
+    {
+        "id": 28,
+        "name": "Kai",
+        "realm": "Earthrealm",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/e/ef/Kai.jpg/revision/latest/scale-to-width-down/300?cb=20140816200905&path-prefix=pt"
+    },
+
+    {
+        "id": 29,
+        "name": "Shinnok",
+        "realm":"Netherralm",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/7/7a/Shinnok_MKX_FT.png/revision/latest/scale-to-width-down/300?cb=20150430165110&path-prefix=pt"
+    },
+
+    {
+        "id": 30,
+        "name": "Quan Chi",
+        "realm": "Netherralm",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/2/2c/Quan_Chi90.png/revision/latest/scale-to-width-down/300?cb=20150507170424&path-prefix=pt"
+    },
+
+    {
+        "id": 31,
+        "name": "Reiko",
+        "realm": "Outworld",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/8/8a/Reiko_MKA.jpg/revision/latest?cb=20150606190036&path-prefix=pt"
+    },
+    
+    {
+        "id": 32,
+        "name": "Tanya",
+        "realm": "Edenia",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/8/8c/Tanya_MKX.jpg/revision/latest/scale-to-width-down/300?cb=20150404204847&path-prefix=pt"
+    },
+    
+    {
+        "id": 33,
+        "name": "Jarek",
+        "realm": "Earthrealm",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/d/dd/Jarek.jpg/revision/latest/scale-to-width-down/300?cb=20140816194641&path-prefix=pt"
+    },
+    {
+        "id": 34,
+        "name": "Fujin",
+        "realm": "Earthrealm",
+        "image": "https://static.wikia.nocookie.net/mortalkombat/images/c/ce/Fujin_Mk11.jpg/revision/latest/scale-to-width-down/300?cb=20200621164553&path-prefix=pt"
+    }
+]
